@@ -9,8 +9,8 @@ import random
 FORTUNES = [
     "There is a good chance your code will work, eventually.",
     "The weather will be hot, cold or just right today.",
-    "I see Network DevOps in your future.",
-]
+    "I see Network DevOps in your future."]
+
 
 
 def generate_fortune() -> str:
